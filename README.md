@@ -2,7 +2,6 @@
 A fully containerized Apache Airflow environment running with Docker Compose on WSL2 (Ubuntu).  
 Includes a complete ETL pipeline, persistent storage, and a production-like Airflow architecture.
 
----
 
 ## 📌 Overview
 
@@ -20,11 +19,10 @@ This repository is ideal for:
 - Demonstrating ETL / Orchestration skills  
 - Building a foundation for bigger Data Engineering projects  
 
----
 
 ## 🧱 Architecture
 
-```txt
+
               +------------------------+
               |      Webserver         |
               |  (UI & DAG rendering)  |
