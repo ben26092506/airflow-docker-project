@@ -120,9 +120,6 @@ Output CSVs will appear in:
 data/raw.csv
 data/processed.csv
 
-📸 Screenshots (add your own)
-
-Place images inside images/ and embed them:
 
 ![DAG Graph](images/dag_graph.png)
-![Task Success](images/dag_task_success.png)
+![Task Success](images/dag_task_successful.png)
