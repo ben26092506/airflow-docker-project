@@ -1,0 +1,15 @@
+# Airflow runtime data
+logs/
+data/
+config/airflow.cfg
+config/webserver_config.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Docker volumes
+*/__pycache__/
